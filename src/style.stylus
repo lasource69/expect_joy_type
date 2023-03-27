@@ -1,5 +1,5 @@
 .container
-  display: flex
+  display: block
   justify-content: left
   align-items: center
   width: 100%
